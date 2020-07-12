@@ -1,1 +1,1 @@
-WQB-GitHub.github.io
+hello,i'm wqb,it's my web!
